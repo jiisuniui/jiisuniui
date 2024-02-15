@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/jiisuniui/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiisuniui" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jiisuniui" />
   </a>
   <a href="https://github.com/jiisuniui/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jiisuniui" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiisuniui" />
   </a>
 </div>
 
