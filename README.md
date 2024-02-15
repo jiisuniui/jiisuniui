@@ -1,13 +1,16 @@
 <div style="display: flex; justify-content: space-around;">
-<!--   <a href="https://github.com/jiisuniui/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jiisuniui" />
-  </a> -->
-  
-  [![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=jiisuniui&include_orgs=true)](https://github.com/jiisuniui/github-readme-stats)
-  
-  <a href="https://github.com/jiisuniui/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiisuniui" />
-  </a>
+<!--     <a href="https://github.com/jiisuniui/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=jiisuniui" />
+    </a>
+    <a href="https://github.com/jiisuniui/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiisuniui" />
+    </a>
+ -->
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=jiisuniui&include_orgs=true)](https://github.com/jiisuniui/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=jiisuniui&include_orgs=true)](https://github.com/jiisuniui/github-readme-stats)
+
 </div>
 
 <!--
