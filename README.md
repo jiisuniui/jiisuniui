@@ -17,13 +17,13 @@
 
 <p align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jiisuniui?pet-id=643973655480508875" width="1000" height="150"/>
+  <img src="https://render.gitanimals.org/lines/jiisuniui?pet-id=643973655480508875" width="1000" height="120"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jiisuniui?pet-id=644001020008996979" width="1000" height="150"/>
+  <img src="https://render.gitanimals.org/lines/jiisuniui?pet-id=644001020008996979" width="1000" height="120"/>
 </a>
 </p>
   
