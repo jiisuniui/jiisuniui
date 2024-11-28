@@ -23,7 +23,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/jiisuniui?pet-id=646500501376191283"
-    width="1000"
+    width="600"
     height="150"
   />
 </a>
